@@ -1,3 +1,10 @@
+"""
+Python Code for HW5 Problem1
+Neural Networks
+Created on Wed Nov 22 2016
+@author: Yizhou Wang
+"""
+
 import csv
 import numpy
 import numpy as np

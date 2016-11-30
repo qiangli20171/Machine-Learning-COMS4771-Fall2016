@@ -1,4 +1,4 @@
-# Machine Learning Assignment Resourses
+# Machine Learning Resourses
 
 **Columbia University COMS 4771 Fall-2016**
 

@@ -1,3 +1,10 @@
+"""
+Python Code for HW5 Problem2
+Neural Networks
+Created on Wed Nov 22 2016
+@author: Yizhou Wang
+"""
+
 import numpy as np
 from scipy.io import loadmat
 

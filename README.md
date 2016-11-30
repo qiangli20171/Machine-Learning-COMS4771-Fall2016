@@ -2,6 +2,4 @@
 
 **Columbia University COMS4771 Fall-2016**
 
-Machine Learning Assignment Python Code
-
-Totally 6 homeworks assigned.
+This repository is for COMS 4771 Machine Learning Course assignments, including overall 6 assignments and their Python Codes.
